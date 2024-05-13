@@ -13,7 +13,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title><?php wp_title("Aquila Wordpress Theme"); ?></title>
+    <title>("Aquila Wordpress Theme")</title>
     <?php wp_head(); ?>
 </head>
 
